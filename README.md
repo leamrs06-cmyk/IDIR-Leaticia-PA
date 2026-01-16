@@ -21,7 +21,7 @@ Author: Claire Keegan
 Analysis Focus: Moral responsibility, silence, and social injustice in contemporary Irish literature
 
 ## Repository Contents
-- 📄 SmallThingsAnalysis.pdf - Final PDF document (2 pages)
+- 📄 Literary_Analysis_Smallthingslikethese.pdf  - Final PDF document (2 pages)
 - 📦 SmallThingsAnalysis.zip - Complete Overleaf source files
   - main.tex - LaTeX source code
   - references.bib - Bibliography from Zotero
@@ -46,10 +46,7 @@ Analysis Focus: Moral responsibility, silence, and social injustice in contempor
 This assignment develops digital autonomy skills essential for university work, including essays, research papers, and collaborative projects. It emphasizes practical competence with tools that support open scholarship and reproducible research.
 
 ## How to Use This Repository
-1. Download SmallThingsAnalysis.pdf to view the final document
+1. Download Literary_Analysis_Smallthingslikethese.pdf to view the final document
 2. Download SmallThingsAnalysis.zip to access the LaTeX source files
 3. The .bib file can be imported into Zotero or any reference manager
 4. All files are ready for compilation in Overleaf or any LaTeX environment
-
----
-*Submitted as part of the Practical Assignment for the FOSS Tools for Academic Writing module.*
